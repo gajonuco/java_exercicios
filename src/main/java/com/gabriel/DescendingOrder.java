@@ -17,12 +17,6 @@ public class DescendingOrder{
         return numeros_ordenados_2;
     }
 
-    public static void main(String[] args) {
-    System.out.println(DescendingOrder.sortDesc(12356));
-    System.out.println(DescendingOrder.sortDesc(23423));
-    System.out.println(DescendingOrder.sortDesc(568568));
-    System.out.println(DescendingOrder.sortDesc(89077));
-}
 }
 
 
